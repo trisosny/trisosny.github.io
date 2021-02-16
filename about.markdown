@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+ismenu: true
 permalink: /about/
 ---
 
